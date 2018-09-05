@@ -16,7 +16,7 @@ output: 'tHIS IS Me 123'
 #Solution
 
     string = "This is mE 123"
-    print (string.swapcases())
+    print (string.swapcase())
 
 #end
 
